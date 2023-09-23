@@ -1,0 +1,4 @@
+*.tf                      @doubtnews/infra
+infra/                    @doubtnews/infra
+.github/workflows         @doubtnews/infra
+sonar-project.properties  @doubtnews/infra
